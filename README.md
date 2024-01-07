@@ -7,7 +7,7 @@ This is a project that is in the development phase and we are trying hard to del
 
 # WARNING
 ONLY FOR SNAPDRAGON VERSION 
-This project is still being tested, there is a high chance of bugs 
+This project is still being tested
 
 # Credits 
 - [crDroid](https://github.com/crdroidandroid)
