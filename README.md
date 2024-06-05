@@ -1,15 +1,33 @@
-![alt text][logo]
+-----------------------------------------------------------------------------
+<div align="center">
+<img src="https://i.ibb.co/v1mkgz7/images-2.jpg"> 
+<br>
+<strong><i>A Custom ROM based on Lineage OS.</i></strong>
+<br>
+</a>
+<a href="https://xdaforums.com/t/rom-13-0-unofficial-snapdragon-crdroid-for-samsung-galaxy-s20-fe-4g-5g.4646714/">
+<img src="https://img.shields.io/badge/XDA-Thread-black?style=for-the-badge">
+</a>
+<a href="https://t.me/nerokireleases">
+<img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge">
+</div>
 
-[logo]:https://crdroid.net/img/logo.png "crDroid Android"
+-----------------------------------------------------------------------------
 
-# About the project
-This is a project that is in the development phase and we are trying hard to deliver something stable to everyone in the community.
+About Project
+===============
 
-# WARNING
-ONLY FOR SNAPDRAGON VERSION 
-This project is still being tested
+This is a project I'm committed to helping the customization community for the S20 FE. I hope you like it! 
+```
+Only for Snapdragon versions 
+```
+-----------------------------------------------------------------------------
 
-# Credits 
-- [crDroid](https://github.com/crdroidandroid)
-- [r8q-dev](https://github.com/r8q-dev/)
-- [Pixel Experience](https://github.com/PixelExperience)
+Credits
+=======
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**CrDroid**](https://github.com/crdroidandroid)
+ * [**Atakan**](https://github.com/ata-kaner)
+ * [**Pixel Experience**](https://github.com/PixelExperience)
+
+-----------------------------------------------------------------------------
